@@ -1,4 +1,3 @@
-
 // API URL to update IP
 const apiUrl = "https://www.smartdnsproxy.com/api/IP/update/1e945f643220410";
 
