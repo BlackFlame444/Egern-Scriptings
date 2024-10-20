@@ -165,7 +165,6 @@ mitm:
     - carrotweather.herokuapp.com
     - order.creativeappnow.com
     - api.mwm-users.com
-    - us-central1-muslim-pro-app.cloudfunctions.net
     - prod.studysmarter.de
     - api.qonversion.io
     - subscription.grammarly.com
